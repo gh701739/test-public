@@ -1,5 +1,5 @@
 
 [DASH]
 0 =  inuse | name  | cmnd 
-1 =  True  | white | v
-22 = False | black | t
+1 =  True  | white | v1
+22 = False | black | t2
